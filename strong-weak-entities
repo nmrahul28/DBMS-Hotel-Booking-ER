@@ -1,0 +1,3 @@
+Strong entities:Hotel, Booking
+
+weak entities: Customer, room.
